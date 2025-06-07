@@ -1,0 +1,17 @@
+<nav class="navbar">
+  <div class="logo">Urban Point</div>
+  <ul class="nav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="products.html">Shop</a></li>
+    <li><a href="wishlist.html">Wishlist</a></li>
+    <li><a href="order-history.html">Orders</a></li>
+    <li><a href="profile.html">Profile</a></li>
+    <li><a href="admin.html">Admin</a></li>
+    <li><span class="user-greeting"></span></li>
+    <li><a href="#" id="signout-btn" style="display:none;">Sign Out</a></li>
+    <li><a href="signup.html" id="signup-link">Sign Up</a></li>
+    <li><a href="signin.html" id="signin-link">Sign In</a></li>
+    <li><a href="cart.html">Cart (<span class="cart-count">0</span>)</a></li>
+    <li><button id="theme-toggle" title="Toggle theme">🌓</button></li>
+  </ul>
+</nav>
