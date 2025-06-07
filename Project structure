@@ -1,0 +1,25 @@
+/Urban-Point-
+  /js
+    auth.js
+    store.js
+    toast.js
+    order-history.js
+    wishlist.js
+    reviews.js
+    theme.js
+    signup-validation.js
+    products.js
+  /css
+    styles.css
+  /pages
+    order-history.html
+    wishlist.html
+    profile.html
+    admin.html
+    404.html
+    500.html
+    products.html
+    signup.html
+    product-detail.html
+    cart.html
+  index.html
